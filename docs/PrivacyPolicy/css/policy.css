@@ -8,7 +8,9 @@ body{
 body > *{
 	font-family: 'Avenir', 'Corbel', 'Osaka', 'Meiryo', 'ヒラギノ角ゴ ProN', 'ＭＳ Ｐゴシック', sans-serif;
 }
-
+h1{
+	text-align: center;
+}
 h2{
 	background-color: #000033;
 	color: white;
