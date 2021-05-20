@@ -1,0 +1,30 @@
+body{
+	background-color: #EEEEEE;
+}
+.center{
+	width: 60%;
+	margin: auto;
+}
+body > *{
+	font-family: 'Avenir', 'Corbel', 'Osaka', 'Meiryo', 'ヒラギノ角ゴ ProN', 'ＭＳ Ｐゴシック', sans-serif;
+}
+h1{
+	text-align: center;
+}
+h2{
+	background-color: #000033;
+	color: white;
+	padding: 5px 0 5px 10px;
+	border-radius: 10px 10px 10px 10px;
+}
+
+footer{
+	background-color: #000033;
+	color: white;
+	text-align: center;
+	font-size: 1em;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
